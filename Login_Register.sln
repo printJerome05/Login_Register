@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login_Register", "Login_Register.csproj", "{91FD0F5E-702A-4972-B040-831C1BF24271}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Login_Register", "Setup_Login_Register\Setup_Login_Register.vdproj", "{77E44695-C493-4162-8890-61DB8385A2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FD0F5E-702A-4972-B040-831C1BF24271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FD0F5E-702A-4972-B040-831C1BF24271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FD0F5E-702A-4972-B040-831C1BF24271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FD0F5E-702A-4972-B040-831C1BF24271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E44695-C493-4162-8890-61DB8385A2AF}.Debug|Any CPU.ActiveCfg = Debug
+		{77E44695-C493-4162-8890-61DB8385A2AF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF95C61-ACFD-4F20-A94C-1D96CC9AD583}
+	EndGlobalSection
+EndGlobal
