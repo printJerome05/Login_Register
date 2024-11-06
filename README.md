@@ -1,3 +1,11 @@
+Installer:
+
+https://github.com/printJerome05/Login_Register/tree/master/Setup_Login_Register/Debug 
+
+Download this to setup the application >> Setup_Login_Register.msi
+
+-----------------------------------------------------------------------------------------
+
 Setup MysqlDatabase
 
 ![image](https://github.com/user-attachments/assets/04dd16df-6597-4453-8ace-379c9e5da95b)
